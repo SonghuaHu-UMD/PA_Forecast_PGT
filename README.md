@@ -17,6 +17,9 @@ The datasets are private. Contact me to get the data. Unzip the data and put it 
 
 
 ## Model Training
-The script `1.2-Model_multime.py` is used for training and evaluating the main model.
+The script `1.2-Model_multime.py` is used for training and evaluating the main model. After getting all the data prepared, run this script and you will get:
+
+* Trained models saved at `checkpoint`.
+* Results saved at `Results`.
 
 The script `1.3-Model_Best_Result_Output.py` is used to transform the best prediction output.
