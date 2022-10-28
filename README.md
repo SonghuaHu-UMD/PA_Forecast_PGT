@@ -1,7 +1,7 @@
-# Comparison of popular temporal graph neural networks in crowd flow forecasting
+# Demo: Comparison of popular temporal graph neural networks in population flow forecasting
 
 ## Environment
-We use the torch == 1.10.2 and Python 3.6.11 for implementation.
+We use the torch >= 1.10.2 and Python 3 for implementation.
 
 We follow the framework of [pytorch_geometric_temporal](https://github.com/SonghuaHu-UMD/pytorch_geometric_temporal) to prepare data and run the model.
 
@@ -13,7 +13,7 @@ cd PA_Forecast_PGT
 ```
 
 ## Data Preparation
-The datasets are private. Contact me to get the data.
+The datasets are private. Contact me to get the data. Unzip the data and put it into the `data` folder.
 
 
 ## Model Training
