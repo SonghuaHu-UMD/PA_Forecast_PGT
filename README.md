@@ -1,6 +1,7 @@
 # Spatiotemporal Population Flow Forecasting via Temporal Fusion Graph Convolutional Neural Network: An comparison analysis
 
 ![F1](figures/img.png "framework")
+
 In this study, we aim to predict the daily county-level population flow time series extracted from LBS data across the contiguous US. 
 We introduce a popular deep learning framework, Temporal Fusion Graph Convolutional Neural Network (TFGCN), for multivariable and multi-horizon population flow time series forecasting.
 The main scopes of our study include two parts:
