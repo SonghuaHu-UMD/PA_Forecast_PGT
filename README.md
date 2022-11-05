@@ -1,4 +1,4 @@
-# Spatiotemporal Population Flow Forecasting via Temporal Fusion Graph Convolutional Neural Network: An comparison analysis
+# Spatiotemporal Population Flow Forecasting via Temporal Fusion Graph Convolutional Neural Network: A comparative analysis
 
 ![F1](figures/img.png "framework")
 
